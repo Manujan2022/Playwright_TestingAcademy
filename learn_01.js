@@ -1,3 +1,5 @@
 
 let msg = 'Hello World';
-console.log('Are you ok');
+console.log('thisis Antigravity');
+a=10;
+console.log(++a + ++a);
